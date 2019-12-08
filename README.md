@@ -1,2 +1,2 @@
-# Product-1
+# Project-1
 Task-manager for your daily life
